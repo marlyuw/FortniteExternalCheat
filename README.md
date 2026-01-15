@@ -33,7 +33,7 @@
 
 - Stream Safety Mode - Auto-hides overlay when streaming software detected
 
-##🚀 Getting Started
+## 🚀 Getting Started
 
 ## 📋 System Requirements
 - Windows 10/11 (22H2 or newer)
