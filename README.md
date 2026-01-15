@@ -2,7 +2,7 @@
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0ae63845-95da-45ad-ae6a-fac90fcdae86" />
 
-**Sleek, efficient, and undetectable - The ultimate external toolkit for Fortnite*
+*Sleek, efficient, and undetectable - The ultimate external toolkit for Fortnite*
 
 ## ✨ Unique Features
 
